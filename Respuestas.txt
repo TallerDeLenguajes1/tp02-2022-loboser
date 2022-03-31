@@ -1,0 +1,11 @@
+ ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+
+Si, porque en la carpeta estan todos los archivos juntos.
+
+vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+
+La linea de tiempo cambia y muestra que se modifico main recientemente.
+
+Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+
+Muestra como se unifican las ramas en la Main.
